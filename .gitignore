@@ -1,0 +1,20 @@
+# ambiente
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# dados (4.5 GB, fora do versionamento)
+data/
+*.zip
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# rascunhos locais
+notebooks/_draft_*.ipynb
+
+# contexto local de trabalho
+CLAUDE.md
+.claude/
